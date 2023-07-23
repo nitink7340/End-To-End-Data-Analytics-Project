@@ -1,7 +1,7 @@
 
 This project is created by me over a period of so many weeks which covers 1M records involving 8 tables.
 
-Introduction :
+# Introduction :
 
 The Czechoslovakia Bank has provided a dataset containing information about its financial activities for the past 5 years. The dataset consists of the following tables:
 
@@ -21,7 +21,7 @@ The Czechoslovakia Bank has provided a dataset containing information about its 
 
 8.Transaction: This table contains information about the transactions made by the bank's clients. It includes the transaction ID, the account ID associated with the transaction, the transaction date, the type of transaction, and the transaction amount.
 
-Ad-hoc Data Analysis :
+# Ad-hoc Data Analysis :
 
 The Czechoslovakia Bank wants to analyse its financial data to gain insights and make informed decisions. The bank needs to identify trends, patterns, and potential risks in its financial operations. They also want to explore the possibility of introducing new financial products or services based on their analysis.
 
